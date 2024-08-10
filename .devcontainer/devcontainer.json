@@ -1,0 +1,11 @@
+{
+  //creating a json object for copilot primer
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
